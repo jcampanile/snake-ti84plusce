@@ -11,4 +11,4 @@ a fancy snake game I coded on my calculator in ti basic coding language.
 <h2>how to use</h2>
 <p>tuturial on  how to install programs on ti 84 plus ce (https://www.youtube.com/watch?app=desktop&v=4LlOnC85P1M)</p>
 note: when you get to the part of the vid when he downloads programs, just use the one snake.8xp file, NOT the folder.
-<p>you can edit the code by pressing the "pgrm" key, ">" key and sellecting the snake program</p>
+<p>you can edit the code by pressing the "pgrm" key, right arrow key and sellecting the snake program</p>
