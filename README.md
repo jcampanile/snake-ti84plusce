@@ -10,3 +10,4 @@ a fancy snake game I coded on my calculator in ti basic coding language.
 <img src="screenshot.png" width="100%">
 <h2>how to use</h2>
 tuturial on  how to install programs on ti 84 plus ce (https://www.youtube.com/watch?app=desktop&v=4LlOnC85P1M)
+note: when you get to the part of the vid when he downloads programs, just use the one snake.8xp file, NOT the folder.
