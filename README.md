@@ -1,5 +1,5 @@
 <h1>snake for ti 84 plus ce</h1>
-a fansy snake game I coded on my calculator in ti basic coding language.
+a fancy snake game I coded on my calculator in ti basic coding language.
 <h2>Features</h2>
 <ul>
 <li>fully working snake game</li>
