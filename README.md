@@ -6,8 +6,10 @@ a fancy snake game I coded on my calculator in ti basic coding language.
 <li>move with arrow keys</li>
 <li>pause with "mode" key and unpause with "enter" key</li>
 </ul>
-<h2>screen shots</h2>
-<img src="screenshot.png" width="100%">
+<h2>screen recording</h2>
+
+
+
 <h2>how to use</h2>
 <p>tuturial on  how to install programs on ti 84 plus ce (https://www.youtube.com/watch?app=desktop&v=4LlOnC85P1M)</p>
 note: when you get to the part of the vid when he downloads programs, just use the one snake.8xp file, NOT the folder.
