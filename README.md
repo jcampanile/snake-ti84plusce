@@ -2,7 +2,7 @@
 a fancy snake game I coded on my calculator in ti basic coding language.
 <h2>Features</h2>
 <ul>
-<li>fully working snake game</li>
+<li>best snake game coded in ti basic you will ever see</li>
 <li>move with arrow keys</li>
 <li>pause with "mode" key and unpause with "enter" key</li>
 </ul>
