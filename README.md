@@ -15,4 +15,4 @@ https://user-images.githubusercontent.com/122117065/234749616-e472f796-1cfd-4836
 note: when you get to the part of the vid when he downloads programs, just use the one snake.8xp file, NOT the folder.
 <p>you can edit the code by pressing the "pgrm" key, right arrow key and sellecting the snake program</p>
 <h2>notice</h2>
-This project by jcampanile is lisensed under the MIT license.
+This project by jcampanile is licensed under the MIT license.
